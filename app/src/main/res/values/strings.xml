@@ -1,0 +1,180 @@
+<resources>
+    <string name="app_name">架构合集</string>
+    <string name="app_name_long">智能化警务融合指挥系统</string>
+
+    <!--SIP测试-->
+    <string name="search_network_ip">查询公网ip</string>
+    <string name="devices_scan">设备扫描</string>
+    <string name="ping_ip">ping</string>
+    <string name="input_ip_please">请输入对端设备的IP地址</string>
+    <string name="ping_fail">该IP不通</string>
+    <string name="connect_wifi_please">请连接WiFi!</string>
+    <string name="unknown">未知名称</string>
+    <string name="unknown_manufacture">未知厂商</string>
+    <string name="ip_address">IP地址：%s</string>
+    <string name="mac_address">MAC地址：%s</string>
+    <string name="your_phone">本机</string>
+    <string name="gate_net">网关</string>
+
+    <!--登录页-->
+    <string name="police_id">警号</string>
+    <string name="police_id_hint">请输入警号</string>
+    <string name="password">密码</string>
+    <string name="verification_code">验证码</string>
+    <string name="password_hint">请输入密码</string>
+    <string name="login">登 录</string>
+    <string name="login_error_empty">警号或密码不得为空</string>
+    <string name="login_error_validate_code">验证码输入不正确</string>
+    <string name="login_error_not_connect">眼镜设备暂未与PDA设备连接</string>
+    <string name="login_mark">特别说明</string>
+    <string name="login_bind_mark">*三者为绑定关系，若未绑定，则不允许登录。</string>
+    <string name="police_not_match_pda">警号与PDA不匹配！</string>
+    <string name="username_or_password_error">用户名或密码错误，\r\n请检查后重试！</string>
+    <string name="connect_server_error">服务器连接异常，\r\n请检查后重试！</string>
+    <string name="device_match_get_error">设备绑定信息获取失败！</string>
+
+    <!--首页-->
+    <string name="home_page">首页</string>
+    <string name="app_name_introduce">打造属于你的移动工具</string>
+    <string name="home_card_query">三证一牌查询</string>
+    <string name="home_map">地图</string>
+    <string name="home_policy">警情处理</string>
+    <string name="home_watch_video">视频查看</string>
+    <string name="home_patrol_manage">巡更管理</string>
+    <string name="home_oneKey_policy">一键告警</string>
+
+    <!--通讯录-->
+    <string name="contact">通讯录</string>
+
+    <!--用户中心-->
+    <string name="mine">用户中心</string>
+    <string name="person_setting">个人设置</string>
+    <string name="person_photo">头像</string>
+    <string name="person_modify_photo">更换头像</string>
+    <string name="person_name">姓名</string>
+    <string name="person_department">所属部门</string>
+    <string name="person_password_modify">登录密码修改</string>
+    <string name="person_version_check">版本检测</string>
+    <string name="person_logout">退出登录</string>
+
+    <!--提示信息-->
+    <string name="logout_hint">确定退出当前应用吗?</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="loading">载入中...</string>
+    <string name="logging_in">正在登录...</string>
+    <string name="network_unavailable">无可用网络</string>
+
+
+    <string name="types_queries">三证一牌查询</string>
+    <string name="identity">身份证</string>
+    <string name="driving">驾驶证</string>
+    <string name="driving_the">行驶证</string>
+    <string name="plate">车牌证</string>
+    <string name="certificate">证件号</string>
+    <string name="submit">提交</string>
+
+    <string name="alert_directory">警情处理</string>
+    <string name="police_accepted_by">报警受理</string>
+    <string name="help_to_accept">求助受理</string>
+    <string name="to_accept_complaints">投诉受理</string>
+
+    <string name="fill">填报</string>
+    <string name="case_information">案件信息</string>
+    <string name="case_title">案件标题 :</string>
+    <string name="case_number">案件编号 :</string>
+    <string name="case_type">案件类型 :</string>
+    <string name="case_briefly">案件简要 :</string>
+    <string name="disposal_content">处置内容</string>
+    <string name="disposal_people">处置人 :</string>
+    <string name="disposal_time">处置时间 :</string>
+    <string name="take_photo">上传照片 :</string>
+    <string name="processing_results">处理结果 :</string>
+    <string name="save">保存</string>
+
+    <string name="case_see">案件查看</string>
+    <string name="case_title_content">标题</string>
+    <string name="case_time">填报时间</string>
+    <string name="case_about">警情描述</string>
+    <string name="photo">图片</string>
+    <string name="processing_results_content">处理结果</string>
+
+    <string name="name">姓名</string>
+    <string name="sex">性别</string>
+    <string name="identity_number">身份证</string>
+    <string name="national">民族</string>
+    <string name="age">年龄</string>
+    <string name="native_place">籍贯</string>
+    <string name="marriage">婚姻</string>
+    <string name="phoneNumber">电话</string>
+    <string name="schooling">学历</string>
+    <string name="address">住址</string>
+    <string name="unit">单位</string>
+    <string name="status">状态</string>
+
+    <string name="police_num">当前版本 :</string>
+    <string name="pda">最新版本 :</string>
+
+    <string name="the_address_book">通讯录</string>
+    <string name="look_the_location">查看位置</string>
+    <string name="video_call">呼叫对方</string>
+
+    <string name="name_drivers">姓名</string>
+    <string name="sex_drivers">性别</string>
+    <string name="address_drivers">住址</string>
+    <string name="date_of_birth">出生日期</string>
+    <string name="first_registration">初次领证日</string>
+    <string name="type_driving">准驾车型</string>
+    <string name="number_drivers">档案编号</string>
+    <string name="effective_time_drivers">有效期限</string>
+    <string name="agencies_drivers">发证机关</string>
+    <string name="photo_drivers">联系电话</string>
+    <!--<string name="status_drivers">状态</string>-->
+
+    <string name="car_certificate">车辆所有人</string>
+    <string name="using_nature">使用性质</string>
+    <string name="phone_certificate">联系电话</string>
+    <string name="time_certificate">出场日期</string>
+    <string name="car_card_type">车牌种类</string>
+    <string name="car_number">车牌号码</string>
+    <string name="car_type">车辆分类</string>
+
+    <string name="car_type_">车辆类型</string>
+    <string name="car_about">车主详情</string>
+    <string name="type_">种类</string>
+    <string name="car_color">颜色</string>
+    <string name="car_card">品牌</string>
+    <string name="car_model">型号</string>
+    <string name="car_status">车辆状态</string>
+    <string name="engine_no">发动机号</string>
+    <string name="engine_number">发动机序号</string>
+    <string name="car_driver">驾照</string>
+
+    <string name="server_settings">服务器设置</string>
+    <string name="server_hint">服务器IP地址</string>
+    <string name="server_port_hint">端口号</string>
+
+    <string name="video_to_see">视频查看</string>
+    <string name="real_time_video_acceptance">实时视频接收</string>
+    <string name="history_video_acceptance">历史视频接收</string>
+    <string name="case_video">案件视频</string>
+    <string name="real_time_video">实时视频</string>
+    <string name="skynet_video">天网视频</string>
+    <string name="look_video">查看ta的视频</string>
+    <string name="look_location">查看ta的位置</string>
+    <string name="video_type">视频分类</string>
+    <string name="skynet_history_video">天网历史视频</string>
+    <string name="local_history_video">本地历史视频</string>
+
+    <string name="map">地图</string>
+    <string name="watchman_map">巡更地图</string>
+
+    <string name="up_file">文 件 名 :</string>
+    <string name="up_time"> 时  间  :</string>
+    <string name="up_status">是否上传 :</string>
+    <string name="up_load">上传进度 :</string>
+    <string name="paly_video"> 播  放  :</string>
+
+
+    <string name="error_tips">糟糕！加载失败了ヽ(≧Д≦)ノ\n 偷偷告诉你一些可能的原因：\n1.惨不忍睹的网络环境\n 2.服务器君的不定期抽风\n 3.Pac现在心情不好拒绝服务喔~</string>
+</resources>
